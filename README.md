@@ -1,3 +1,8 @@
+
+https://www.youtube.com/watch?v=Vt0tg0eqBmw
+
+
+
 **Enunciado: Sistema de Gerenciamento de Tarefas (API)**
 
 Você foi contratado para desenvolver um sistema de gerenciamento de tarefas utilizando Laravel. O sistema deve fornecer uma API para realizar operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.
@@ -66,3 +71,8 @@ Ao clonar um projeto Laravel de um repositório Git, é necessário baixar as de
 Com essas etapas, você poderá baixar e configurar corretamente as dependências do projeto Laravel ao cloná-lo de um repositório Git.
 
 Lembre-se de consultar a documentação oficial do Laravel para obter mais informações sobre a configuração e execução de projetos Laravel.
+
+https://github.com/Pedrobarizon04/apicrudlaravel/assets/63133133/f8a8c413-aa35-4ff6-9083-68a2c18f6495
+
+
+
