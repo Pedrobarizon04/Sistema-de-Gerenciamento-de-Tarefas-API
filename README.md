@@ -8,10 +8,6 @@
 
 </br>
 
-**API em execução no Postman:**
-
-[![](https://markdown-videos.vercel.app/youtube/V7IgQjuNsrU)]()
-
 **Instruções**
 
 - ``` git clone ``` (link do repositório)
@@ -32,7 +28,7 @@
  4. Atualiza dados da tarefa - Put
  5. Exclui tarefa - Del
 
-![requisições postman](https://github.com/p1nheiros/Sistema-de-Gerenciamento-de-Tarefas-API/assets/124714182/2e1da62f-ce84-429a-91c1-3178fba017af)
+![requisições postman](https://github.com/Pedrobarizon04/Sistema-de-Gerenciamento-de-Tarefas-API/assets/124714182/2e1da62f-ce84-429a-91c1-3178fba017af)
 
 - Insira o URL que foi gerado no comando _php artisan serve_
  1. Get - URL/tasks
@@ -43,7 +39,7 @@
 
 - No método Post e Put vá em ***body***, selecione ***row*** e coloque em JSON
 
-![método postman](https://github.com/p1nheiros/Sistema-de-Gerenciamento-de-Tarefas-API/assets/124714182/025ed5ae-b10f-411a-b418-aeed233a11aa)
+![método postman](https://github.com/Pedrobarizon04/Sistema-de-Gerenciamento-de-Tarefas-API/assets/124714182/025ed5ae-b10f-411a-b418-aeed233a11aa)
 
 ```
 {
