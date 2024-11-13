@@ -48,9 +48,9 @@
 ```
 
 - Agora é só testar a API.
-  
 
-https://github.com/user-attachments/assets/2d284751-4529-45bd-a339-8581cd74dab9
+
+Uploading TesteAPI.mp4…
 
 
   </div>
