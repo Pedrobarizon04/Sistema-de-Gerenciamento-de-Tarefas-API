@@ -50,7 +50,9 @@
 - Agora é só testar a API.
 
 
-Uploading TesteAPI.mp4…
+## Testando a API 
+https://github.com/user-attachments/assets/dcf54ffa-5b70-45dd-b715-3d3ae21baa91
+
 
 
   </div>
