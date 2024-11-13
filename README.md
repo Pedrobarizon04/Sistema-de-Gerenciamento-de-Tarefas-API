@@ -50,7 +50,7 @@
 - Agora é só testar a API.
 
 
-## Testando a API 
+## Funcionamento
 https://github.com/user-attachments/assets/dcf54ffa-5b70-45dd-b715-3d3ae21baa91
 
 
